@@ -167,7 +167,7 @@
         "type": "CHATSTREAM",
         "muteRoom": false,
         "hideVideo": false,
-        "capacity": 75,
+        "capacity": 300,
         "description": "Speak my friends of the past, present, future; of reconciliation, of foes, of love.",
         "backgroundImage": "https://tstvhq.s3.amazonaws.com/backgrounds/temple/TempleRoom7.png",
         "iframeOptions": {
