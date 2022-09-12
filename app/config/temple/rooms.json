@@ -164,7 +164,7 @@
       {
         "id": "raum",
         "name": "Raum",
-        "type": "JITSI",
+        "type": "CHATSTREAM",
         "muteRoom": false,
         "hideVideo": false,
         "capacity": 300,
